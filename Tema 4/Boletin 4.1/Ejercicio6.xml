@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+  <destinatarios>
+    <destinatario>juanpelop01@gmail.com</destinatario>
+    <destinatariocc>juantoniors@gmail.com</destinatariocc>
+    <destinatariocco>andrespl21@gmail.com</destinatariocco>
+  </destinatarios>
+  <remitente>perzgrz98@gmail.com</remitente>
+  <asunto>Trabajo</asunto>
+  <texto>Para realizar el trabajo de la asignatura vamos a realizar primero un esquema sobre eol
+    contenido que nos tenemos que preparar, aqui debajo os adjunto un archivo en el que podeis ver
+    el inicio del trabajo que ya he hecho</texto>
+  <adjuntos>
+    <nombre>Primer resumen</nombre>
+    <tamaño_en_kb>47kb</tamaño_en_kb>
+    <extension>pdf</extension>
+  </adjuntos>
+</email>

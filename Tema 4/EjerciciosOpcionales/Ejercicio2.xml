@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<viaje_turistico>
+  <nombre_completo_clientes>
+    <nombre>Antonio</nombre>
+    <primer_apellido>García</primer_apellido>
+    <segundo_apellido>Durán</segundo_apellido>
+  </nombre_completo_clientes>
+  <fecha_inicio>1/7/2024</fecha_inicio>
+  <fecha_fin>14/7/2024</fecha_fin>
+  <origen_viaje>Sevilla</origen_viaje>
+  <destino>
+    <nombre_ciudad>Mexico</nombre_ciudad>
+    <nombre_hotel>Mex Hoteles Cancún Centro</nombre_hotel>
+    <número_noches>12</número_noches>
+  </destino>
+  <precio_viaje>1000 eur.</precio_viaje>
+</viaje_turistico>

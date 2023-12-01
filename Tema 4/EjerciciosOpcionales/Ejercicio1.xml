@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curriculum>
+  <datos_personales>
+    <nombre>Antonio</nombre>
+    <apellidos>
+      <primer_apellido>García</primer_apellido>
+      <segundo_apellido>Durán</segundo_apellido>
+    </apellidos>
+    <año_nacimiento>1987</año_nacimiento>
+    <datos_residencia>
+      <ciudad>Zafra</ciudad>
+      <pais>España</pais>
+    </datos_residencia>
+  </datos_personales>
+  <datos_contacto>
+    <telefono>123456789</telefono>
+    <correo>agardur87@gmail.com</correo>
+    <perfil-linkeln>AntonioGD87</perfil-linkeln>
+  </datos_contacto>
+  <descripcion_breve>Soy un hombre trabajador dedicado a la empresa donde me encuentre con horario
+    flexible</descripcion_breve>
+  <competencia>
+    <competencia nivel="3">
+      <nombre>soldadura</nombre>
+    </competencia>
+    <competencia nivel="3">
+      <nombre>pintura</nombre>
+    </competencia>
+  </competencia>
+  <experiencia_academica>
+    <nombre>Grado medio Chapa y pintura</nombre>
+    <centro>IES Suarez de Figueroa</centro>
+    <año_titulacion>2005</año_titulacion>
+  </experiencia_academica>
+  <experiencia_laboral>
+    <encargado>Soldador y pintor jefe</encargado>
+    <empresa>Solpin</empresa>
+    <años_trabajo>2007-2020</años_trabajo>
+  </experiencia_laboral>
+</curriculum>

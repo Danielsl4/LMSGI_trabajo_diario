@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <desserts>
+    <dessert>
+      <ID>1</ID>
+      <Type>Ice cream</Type>
+      <name>Vanilla Cone</name>
+      <Imagen width="200" height="200">
+        <URL>img1.png</URL>
+      </Imagen>
+      <Thunmbnail width="32" height="32">
+        <URL>images/thumbnails.png</URL>
+      </Thunmbnail>
+    </dessert>
+    <dessert>
+      <ID>3</ID>
+      <Type>Cupcake</Type>
+      <name>Banana Split Cupcake</name>
+      <Imagen width="300" height="400">
+        <URL>img/banana.png</URL>
+      </Imagen>
+      <Thunmbnail width="32" height="32">
+        <URL>images/thumbnails/banana.png</URL>
+      </Thunmbnail>
+    </dessert>
+  </desserts>
+</root>

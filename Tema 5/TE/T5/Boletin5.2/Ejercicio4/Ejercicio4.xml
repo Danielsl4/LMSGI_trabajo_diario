@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE curso SYSTEM "Ejercicio4.dtd" [
+
+]>
+<curso>
+  <nombre>Antonio</nombre>
+  <abreviatura>Antoni</abreviatura>
+  <fechainicio dia="2" mes="2" anio="2016"></fechainicio>
+  <alumno mayor_edad="no">
+    <dni>12345678A</dni>
+  </alumno>
+</curso>

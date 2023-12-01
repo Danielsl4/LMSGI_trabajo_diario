@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pedido>
+  <datos_cliente>
+    <nombre>Antonio</nombre>
+    <primer_apellido>García</primer_apellido>
+    <segundo_apellido>Durán</segundo_apellido>
+    <numero_pedido>156</numero_pedido>
+  </datos_cliente>
+  <direccion_entrega>
+    <calle>Constitucion</calle>
+    <numero>12</numero>
+    <ciudad>Zafra</ciudad>
+    <codigo_postal>06300</codigo_postal>
+    <provincia>Badajoz</provincia>
+    <pais>España</pais>
+  </direccion_entrega>
+  <detalles_productos>
+    <comida detalles="sin gluten" precio="7.99">hamburguesa normal</comida>
+    <bebida precio="1.5">Coca Cola</bebida>
+    <postre precio="3.2">Batido de Chocolate</postre>
+  </detalles_productos>
+</pedido>

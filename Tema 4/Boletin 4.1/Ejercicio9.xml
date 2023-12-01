@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura>
+  <numero_factura>999</numero_factura>
+  <datos_de_empresa>
+    <nombre>Equipos Digitales S.L.</nombre>
+    <calle>Av. Valladolid</calle>
+    <ciudad>Madrid</ciudad>
+    <codigo_postal>28015</codigo_postal>
+    <C.I.F.>Q-9876543</C.I.F.>
+    <telefono>917776688</telefono>
+    <fax>917776699</fax>
+  </datos_de_empresa>
+  <datos_pedido>
+    <fecha>12-01-2005</fecha>
+    <numero_pedido>731</numero_pedido>
+    <forma_de_pago>EECTIVO</forma_de_pago>
+  </datos_pedido>
+  <datos_cliente>
+    <numero_cliente>879</numero_cliente>
+    <nombre>Darío Bueno Gutierrez</nombre>
+    <direccion_envio>
+      <calle>Av Oporto</calle>
+      <numero_vivienda>7</numero_vivienda>
+      <numero_puerta>4</numero_puerta>
+      <letra_puerta>d</letra_puerta>
+    </direccion_envio>
+  </datos_cliente>
+  <datos_factura>
+    <datos_producto>
+      <producto1>
+        <REF.>MII93000F/8</REF.>
+        <DESCRIPCION>MICRO PENTIUM IV 3000MHZ FB800</DESCRIPCION>
+        <CANT.>1</CANT.>
+        <PRECIO>230 eur.</PRECIO>
+        <I.V.A.>16,0</I.V.A.>
+        <IMPORTE>266,80</IMPORTE>
+      </producto1>
+      <producto2>
+        <REF.>MB8QDIP4/8</REF.>
+        <DESCRIPCION>PLACA BASE QDI P4</DESCRIPCION>
+        <CANT.>1</CANT.>
+        <PRECIO>180 eur.</PRECIO>
+        <I.V.A.>16,0</I.V.A.>
+        <IMPORTE>208,80</IMPORTE>
+      </producto2>
+      <producto3>
+        <REF.>MEDD512M32/8</REF.>
+        <DESCRIPCION>DIMM DDR 512MB 3200</DESCRIPCION>
+        <CANT.>2</CANT.>
+        <PRECIO>40 eur.</PRECIO>
+        <I.V.A.>16,0</I.V.A.>
+        <IMPORTE>92,80</IMPORTE>
+      </producto3>
+      <producto4>
+        <REF.>HD25OGSA7</REF.>
+        <DESCRIPCION>DISCO DURO 250GB S-ATA 7200</DESCRIPCION>
+        <CANT.>4</CANT.>
+        <PRECIO>120 eur.</PRECIO>
+        <I.V.A.>16,0</I.V.A.>
+        <IMPORTE>556,80</IMPORTE>
+      </producto4>
+    </datos_producto>
+  </datos_factura>
+  <subtotal>
+    <Base_imponible>970,00 eur.</Base_imponible>
+    <I.V.A._aplicado>16,0</I.V.A._aplicado>
+    <Cuota_I.V.A>155,20 eur.</Cuota_I.V.A>
+  </subtotal>
+  <TOTAL_FACTURA>1125,20 eur.</TOTAL_FACTURA>
+</factura>

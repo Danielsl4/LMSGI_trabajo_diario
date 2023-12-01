@@ -1,0 +1,47 @@
+{
+  "factura": {
+    "Número": 138,
+    "fecha": "1/2/2024",
+    "nombre_completo_del_cliente": {
+      "nombre": "Antonio",
+      "primer_apellido": "Pérez",
+      "segundo_apellido": "Cerrada"
+    },
+    "Direccion_del_cliente": {
+      "calle": "Peña",
+      "numero": 17,
+      "codigo_postal": "06380",
+      "localidad": "Jerez de los Caballeros",
+      "provincia": "Badajoz"
+    },
+    "productos": {
+      "producto1": {
+        "nombre_producto": "Destornillador",
+        "numero_unidades": 2,
+        "precio_unidad": 2,
+        "subtotal": 4,
+        "iva_aplicado": 0.84,
+        "total": 4.84
+      },
+      "producto2": {
+        "nombre_producto": "Tornillo",
+        "numero_unidades": 50,
+        "precio_unidad": 0.03,
+        "subtotal": 1.5,
+        "iva_aplicado": 0.32,
+        "total": 1.82
+      },
+      "producto3": {
+        "nombre_producto": "Clavo",
+        "numero_unidades": 50,
+        "precio_unidad": 0.03,
+        "subtotal": 1.5,
+        "iva_aplicado": 0.22,
+        "total": 1.27
+      }
+    },
+    "base": 6.55,
+    "IVA_total": 1.38,
+    "Total": 7.93
+  }
+}

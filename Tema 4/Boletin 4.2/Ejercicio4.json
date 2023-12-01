@@ -1,0 +1,27 @@
+{
+  "matricula": {
+    "personal": {
+      "dni": "99223366M",
+      "nombre": "Juan Pardo Martín",
+      "titulacion": "Ingeniería Informática",
+      "curso_academico": "1997/1998",
+      "domicilios": [
+        {
+          "domicilio": {
+            "_tipo": "familiar",
+            "nombre": "C/ Principal nº1"
+          }
+        },
+        {
+          "domicilio": {
+            "_tipo": "habitual",
+            "nombre": "C/ Secundaria nº2"
+          }
+        }
+      ]
+    },
+    "pagos": {
+      "tipo_matricula": "Matrícula Ordinaria"
+    }
+  }
+}

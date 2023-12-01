@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<viaje_turistico>
+  <nombre_completo_pasajero>
+    <nombre>Antonio</nombre>
+    <primer_apellido>García</primer_apellido>
+    <segundo_apellido>Durán</segundo_apellido>
+  </nombre_completo_pasajero>
+  <destino1>
+    <aeropuerto_de_origen>Aeropuerto Adolfo Súarez</aeropuerto_de_origen>
+    <aeropuerto_de_destino>Aeropuesto Internacional de la Ciudad de México</aeropuerto_de_destino>
+    <destino>
+      <nombre_ciudad>Mexico</nombre_ciudad>
+      <nombre_hotel>Mex Hoteles Cancún Centro</nombre_hotel>
+      <número_noches>8</número_noches>
+    </destino>
+  </destino1>
+  <destino2>
+    <aeropuerto_de_origen>Aeropuesto Internacional de la Ciudad de México</aeropuerto_de_origen>
+    <aeropuerto_de_destino>Aeropuesto La Guardia</aeropuerto_de_destino>
+    <destino>
+      <nombre_ciudad>Nueva York</nombre_ciudad>
+      <nombre_hotel>The Manhattan at Times Square Hotel</nombre_hotel>
+      <número_noches>4</número_noches>
+    </destino>
+  </destino2>
+  <precio_viaje>15000 eur.</precio_viaje>
+</viaje_turistico>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ficha_personal>
+  <nombre_completo>
+    <nombre>Daniel</nombre>
+    <apellido1>Sánchez</apellido1>
+    <apellido2>Lebrato</apellido2>
+  </nombre_completo>
+  <fecha_nacimento>
+    <dia>26</dia>
+    <mes>Marzo</mes>
+    <año>2004</año>
+  </fecha_nacimento>
+  <direccion>
+    <calle>Alcuza</calle>
+    <numero>8</numero>
+    <letra>A</letra>
+    <localidad>Jerez de los Caballeros</localidad>
+    <codigo_postal>06380</codigo_postal>
+    <provincia>Badajoz</provincia>
+    <pais>España</pais>
+  </direccion>
+  <formacion_academica>
+    <primaria>
+      <lugar>El Rodeo</lugar>
+      <año_inicio>2010</año_inicio>
+      <año_fin>2016</año_fin>
+    </primaria>
+    <secundaria>
+      <lugar>El Pomar</lugar>
+      <año_inicio>2016</año_inicio>
+      <año_fin>2020</año_fin>
+    </secundaria>
+    <bachillerato>
+      <lugar>El Pomar</lugar>
+      <año_inicio>2020</año_inicio>
+      <año_fin>2022</año_fin>
+    </bachillerato>
+  </formacion_academica>
+</ficha_personal>

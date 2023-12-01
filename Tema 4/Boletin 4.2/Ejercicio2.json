@@ -1,0 +1,35 @@
+{
+  "operaciones": {
+    "operacion": {
+      "venta": [
+        {
+          "titulosvendidos": {
+            "titulo": [
+              "Don Quijote",
+              "Rimas y leyendas"
+            ],
+            "cantidadtotal": "2000",
+            "importe": {
+              "_moneda": "euros",
+              "valor": "4400"
+            }
+          }
+        },
+        {
+          "titulosvendidos": {
+            "titulo": [
+              "Rinconete y Cortadillo",
+              "Sainetes"
+            ],
+            "cantidadtotal": "1000",
+            "entregado": "",
+            "importe": {
+              "_moneda": "libras",
+              "valor": "290"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

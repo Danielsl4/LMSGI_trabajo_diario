@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <ficha id="13181" fechaingreso="17/02/2019">
+    <nombre>Daniel Alexis</nombre>
+    <apellidos>García</apellidos>
+    <direccion>Col San Martín Pasaje 4</direccion>
+  </ficha>
+  <ficha id="213181" fechaingreso="17/02/2019">
+    <nombre>Daniel Alexis</nombre>
+    <apellidos>García Gómez</apellidos>
+    <edad>23</edad>
+    <altura>173cm</altura>
+    <peso>65kg</peso>
+    <telefono>70075259</telefono>
+    <email>gg19083@ues.edu.sv</email>
+    <website>https://twitter.com/Lexter37</website>
+    <direccion>Col San Martín Pasaje 4</direccion>
+  </ficha>
+  <ficha id="213181" fechaingreso="17/02/2019">
+    <nombre>Daniel Alexis</nombre>
+    <apellidos>García Gómez</apellidos>
+    <edad>23</edad>
+    <altura>173cm</altura>
+    <peso>65kg</peso>
+    <telefono>70075259</telefono>
+    <dui>03333333-3</dui>
+    <isss>823749827</isss>
+    <afp>123456798</afp>
+    <email>gg19083@ues.edu.sv</email>
+    <website>https://twitter.com/Lexter37</website>
+    <direccion>Col San Martín Pasaje 4</direccion>
+  </ficha>
+</root>

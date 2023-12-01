@@ -1,0 +1,71 @@
+{
+  "factura": {
+    "numero_factura": 999,
+    "datos_de_la_empresa": {
+      "nombre": "Equipos Digitales S.L.",
+      "calle": "Av. Valladolid",
+      "ciudad": "Madrid",
+      "codigo_postal": "28015",
+      "C.I.F.": "Q-9876543",
+      "telefono": "917776688",
+      "fax": "917776699"
+    },
+    "datos_pedido": {
+      "fecha": "12-01-2005",
+      "numero_pedido": 731,
+      "forma_de_pago": "EFECTIVO"
+    },
+    "datos_cliente": {
+      "numero_cliente": 879,
+      "nombre": "Darío Bueno Gutierrez",
+      "direccion_envio": {
+        "calle": "Av Oporto",
+        "numero_vivienda": 7,
+        "numero_puerta": 4,
+        "letra_puerta": "d"
+      }
+    },
+    "datos_factura": {
+      "datos_producto": {
+        "producto1": {
+          "REF.": "MII93000F/8",
+          "DESCRIPCION": "MICRO PENTIUM IV 3000MHZ FB800",
+          "CANT.": 1,
+          "PRECIO": "230 eur.",
+          "I.V.A": 16.0,
+          "IMPORTE": 266.80
+        },
+        "producto2": {
+          "REF.": "MB8QDIP4/8",
+          "DESCRIPCION": "PLACA BASE QDI P4",
+          "CANT.": 1,
+          "PRECIO": "180 eur.",
+          "I.V.A": 16.0,
+          "IMPORTE": 208.80
+        },
+        "producto3": {
+          "REF.": "MEDD512M32/8",
+          "DESCRIPCION": "DIMM DDR 512MB 3200",
+          "CANT.": 2,
+          "PRECIO": "40 eur.",
+          "I.V.A": 16.0,
+          "IMPORTE": 92.80
+        },
+        "producto4": {
+          "REF.": "HD25OGSA7",
+          "DESCRIPCION": "DISCO DURO 250GB S-ATA 7200",
+          "CANT.": 4,
+          "PRECIO": "120 eur.",
+          "I.V.A": 16.0,
+          "IMPORTE": 556.80
+        }
+      }
+    },
+    "subtotal": {
+      "Base_imponible": "970.00 eur.",
+      "I.V.A._aplicado": 16.0,
+      "Cuota_I.V.A": "155,20 eur."
+    },
+    "TOTAL_FACTURA": "1125.20 eur."
+  }
+}

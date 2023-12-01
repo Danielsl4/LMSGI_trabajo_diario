@@ -1,0 +1,57 @@
+{
+  "biblioteca": {
+    "libro": [
+      {
+        "_año": "1994",
+        "titulo": "TCP/IP Illustrated",
+        "autor": {
+          "apellido": "Stevens",
+          "nombre": "W."
+        },
+        "editorial": "Addison-Wesley",
+        "precio": "65.95"
+      },
+      {
+        "_año": "1992",
+        "titulo": "Advanced Programming for Unix environment",
+        "autor": {
+          "apellido": "Stevens",
+          "nombre": "W."
+        },
+        "editorial": "Addison-Wesley",
+        "precio": "65.95"
+      },
+      {
+        "_año": "2000",
+        "titulo": "Data on the Web",
+        "autor": [
+          {
+            "apellido": "Abiteboul",
+            "nombre": "Serge"
+          },
+          {
+            "apellido": "Buneman",
+            "nombre": "Peter"
+          },
+          {
+            "apellido": "Suciu",
+            "nombre": "Dan"
+          }
+        ],
+        "editorial": "Morgan Kaufmann editorials",
+        "precio": "39.95"
+      },
+      {
+        "_año": "1999",
+        "titulo": "Data on the Web",
+        "editor": {
+          "apellido": "Gerbarg",
+          "nombre": "Darcy",
+          "afiliacion": "CITI"
+        },
+        "editorial": "Kluwer Academic editorials",
+        "precio": "129.95"
+      }
+    ]
+  }
+}

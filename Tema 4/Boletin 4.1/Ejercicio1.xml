@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura>
+  <Número>138</Número>
+  <fecha>1/2/2024</fecha>
+  <nombre_completo_del_cliente>
+    <nombre>Antonio</nombre>
+    <primer_apellido>Pérez</primer_apellido>
+    <segundo_apellido>Cerrada</segundo_apellido>
+  </nombre_completo_del_cliente>
+  <Direccion_del_cliente>
+    <calle>Peña</calle>
+    <numero>17</numero>
+    <codigo_postal>06380</codigo_postal>
+    <localidad>Jerez de los Caballeros</localidad>
+    <provincia>Badajoz</provincia>
+  </Direccion_del_cliente>
+  <productos>
+    <producto1>
+      <nombre_producto>Destornillador</nombre_producto>
+      <numero_unidades>2</numero_unidades>
+      <precio_unidad>2</precio_unidad>
+      <subtotal>4</subtotal>
+      <iva_aplicado>0.84</iva_aplicado>
+      <total>4.84</total>
+    </producto1>
+    <producto2>
+      <nombre_producto>Tornillo</nombre_producto>
+      <numero_unidades>50</numero_unidades>
+      <precio_unidad>0.03</precio_unidad>
+      <subtotal>1.5</subtotal>
+      <iva_aplicado>0.32</iva_aplicado>
+      <total>1.82</total>
+    </producto2>
+    <producto3>
+      <nombre_producto>Clavo</nombre_producto>
+      <numero_unidades>35</numero_unidades>
+      <precio_unidad>0.03</precio_unidad>
+      <subtotal>1.05</subtotal>
+      <iva_aplicado>0.22</iva_aplicado>
+      <total>1.27</total>
+    </producto3>
+  </productos>
+  <base>6.55</base>
+  <IVA_total>1.38</IVA_total>
+  <Total>7.93</Total>
+</factura>

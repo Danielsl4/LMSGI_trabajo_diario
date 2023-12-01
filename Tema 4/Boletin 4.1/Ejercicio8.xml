@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tipos_de_arboles>
+  <Acer_monspessulanum>
+    <nombre_comun>Arce de Montpellier, Arce menor</nombre_comun>
+    <vegetacion>Caducifolio</vegetacion>
+    <altura>De 6 a 10 metros</altura>
+    <forma_y_estructura>Copa esférica. Tronco principal recto con bifurcaciones. Ramaje colgante</forma_y_estructura>
+    <color_en_primavera>Haz verde brillante, envés verde blanquecino</color_en_primavera>
+    <resistente_a_las_heladas>Heladas fuertes (hasta -15ºC)</resistente_a_las_heladas>
+  </Acer_monspessulanum>
+  <Olea_europea>
+    <nombre_comun>Olivo</nombre_comun>
+    <Vegetacion>Perenne</Vegetacion>
+    <Altura>De 8 a 15 metros</Altura>
+    <forma_y_estructura>Copa irregular. Tronco principal irregular con bifurcaciones.</forma_y_estructura>
+  </Olea_europea>
+  <Ramaje_tortuoso>
+    <color_en_primavera>Haz verde oscuro, envés verde plateado</color_en_primavera>
+    <resistente_a_las_heladas>Heladas medias (hasta -10ºC)</resistente_a_las_heladas>
+  </Ramaje_tortuoso>
+  <Platanus_orientalis>
+    <nombre_comun>Platano</nombre_comun>
+    <Vegetacion>Caducifolio</Vegetacion>
+    <Altura>De 20 a 25 metros</Altura>
+    <forma_y_estructura>Copa ovoidal. Tronco principal recto. Ramaje expandido</forma_y_estructura>
+    <color_en_primavera>Haz verde medio, enves verde claro</color_en_primavera>
+    <color_en_otoño>Ocre</color_en_otoño>
+    <resistente_a_las_heladas>Heladas fuertes (hasta -20ºC)</resistente_a_las_heladas>
+  </Platanus_orientalis>
+  <Quercus_ilex>
+    <nombre_comun>Encina</nombre_comun>
+    <Vegetacion>Perenne</Vegetacion>
+    <Altura>En torno a 25 metros</Altura>
+    <forma_y_estructura>Copa esférica o elíptica irregular. Tronco principal recto. Ramaje tortuoso</forma_y_estructura>
+    <color_en_primavera>Plateado en hojas jóvenes. En hojas antiguas, haz verde oscuro, envés
+      plateado</color_en_primavera>
+    <resistente_a_las_heladas>Heladas fuertes (hasta -15ºC)</resistente_a_las_heladas>
+  </Quercus_ilex>
+</Tipos_de_arboles>

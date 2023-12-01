@@ -1,0 +1,46 @@
+{
+  "addresses": {
+    "person": [
+      {
+        "title": "Dr",
+        "firstname": "Gerando",
+        "lastname": "Martinez",
+        "address": [
+          {
+            "_type": "home",
+            "street": "C/ Rambla, 25",
+            "zip": "6900",
+            "city": "Llerena"
+          },
+          {
+            "_type": "work",
+            "street": "C/ Estanción, 59",
+            "zip": "6980",
+            "city": "Azuaga"
+          }
+        ],
+        "phone": [
+          {
+            "_type": {
+              "fijo": "91 5823695",
+              "mobile": "+34685142698"
+            }
+          }
+        ],
+        "e-mail": "gerando251@gmail.com"
+      },
+      {
+        "_title": "Prof",
+        "lastname": "Rufian",
+        "firstname": "Martinez",
+        "address": {
+          "_type": "work",
+          "street": "C/ El rompido, 68",
+          "zip": "04125",
+          "city": "Huelva"
+        },
+        "e-mail": "rufian.martinez@gmail.com"
+      }
+    ]
+  }
+}

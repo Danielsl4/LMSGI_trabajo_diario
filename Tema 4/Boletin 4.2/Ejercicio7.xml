@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <paises>
+    <pais>
+      <moneda>Dolar $</moneda>
+      <codtelefono>+503</codtelefono>
+      <idiomaoficial oficial="Español Latino">Español Latino</idiomaoficial>
+      <idiomaautoctono autoctono="Náhuat">Náhuat</idiomaautoctono>
+      <idiomasecundario segundo="Lenca">Lenca</idiomasecundario>
+    </pais>
+    <departamento id="1" nombre="San Salvador">
+      <cabezera>San Salvador</cabezera>
+      <habitantes>1,700,000</habitantes>
+      <altura>545 MSNM</altura>
+    </departamento>
+    <departamento id="2" nombre="Cuscatlan">
+      <cabezera>Cojutepeque</cabezera>
+      <habitantes>231,480</habitantes>
+      <altura>920 MSNM</altura>
+    </departamento>
+  </paises>
+</root>

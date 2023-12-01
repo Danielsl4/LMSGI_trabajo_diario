@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curriculum>
+  <daros_personales>
+    <nombre></nombre>
+    <apellidos></apellidos>
+    <año_nacimiento></año_nacimiento>
+    <datos_residencia></datos_residencia>
+    <ciudad></ciudad>
+    <pais></pais>
+  </daros_personales>
+  <datos_contacto>
+    <telefono></telefono>
+    <correo></correo>
+    <perfil-linkeln></perfil-linkeln>
+  </datos_contacto>
+  <descripcion_breve></descripcion_breve>
+  <competencia>
+    <competencia nivel="3">
+      <nombre>Tecnico informatico</nombre>
+    </competencia>
+    <competencia nivel="5">
+      <nombre>nadar</nombre>
+    </competencia>
+    <competencia nivel="1">
+      <nombre>cortar jamon</nombre>
+    </competencia>
+  </competencia>
+  <experiencia_academica>
+    <nombre></nombre>
+    <centro></centro>
+    <año_titulacion></año_titulacion>
+  </experiencia_academica>
+  <experiencia_laboral>
+
+  </experiencia_laboral>
+</curriculum>
+
+cuando no queremos que aparezca algo no se pone el nodo, o se pone
+<formacion />, esto quiere decir que no tiene formacion

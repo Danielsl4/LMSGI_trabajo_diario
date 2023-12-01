@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <libros>
+    <libro>
+      <autor>Miguel Delives</autor>
+      <fecha_editorial>26/6/2003</fecha_editorial>
+    </libro>
+    <libro>
+      <autor>Miguel Delives</autor>
+      <fecha_editorial>26/6/2003</fecha_editorial>
+    </libro>
+  </libros>
+</root>

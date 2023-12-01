@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+  <libros>
+    <libro>
+      <titulo>Harry Potter y la piedra filosofal</titulo>
+      <autora>J. K. Rowling</autora>
+      <año>1997</año>
+      <ISBN>9788478884452</ISBN>
+      <Genero>Fantasia</Genero>
+      <Temas>Magia, adolescencia, autodescubrimiento y muerte</Temas>
+    </libro>
+    <libro>
+      <titulo>Harry Potter y la camara secreta</titulo>
+      <autora> J. K. Rowling</autora>
+      <año>1998</año>
+      <ISBN>9788478884957</ISBN>
+      <Genero>Fantasia</Genero>
+      <Temas>Magia, adolescencia, autodescubrimiento y muerte</Temas>
+    </libro>
+    <libro>
+      <titulo>Harry Potter y el prisionero de Azkaban</titulo>
+      <autora> J. K. Rowling</autora>
+      <año>1999</año>
+      <ISBN>9788478885190</ISBN>
+      <Genero>Fantasia</Genero>
+      <Temas>Magia, adolescencia, autodescubrimiento y muerte</Temas>
+    </libro>
+    <libro>
+      <titulo>Harry Potter y el cáliz de fuego</titulo>
+      <autora> J. K. Rowling</autora>
+      <año>2000</año>
+      <ISBN>9788478886456</ISBN>
+      <Genero>Fantasia</Genero>
+      <Temas>Magia, adolescencia, autodescubrimiento y muerte</Temas>
+    </libro>
+    <libro>
+      <titulo>Harry Potter y la Orden del Fénix</titulo>
+      <autora> J. K. Rowling</autora>
+      <año>2003</año>
+      <ISBN>9788498383621</ISBN>
+      <Genero>Fantasia</Genero>
+      <Temas>Magia, adolescencia, autodescubrimiento y muerte</Temas>
+    </libro>
+  </libros>
+</biblioteca>
