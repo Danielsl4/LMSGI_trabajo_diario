@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="LibraryCatalog">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Book" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Title" type="xs:string" minOccurs="1" />
+              <xs:element name="Author" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute name="country" default="EEUU" use="optional" />
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="ISBN" type="xs:string" minOccurs="0" />
+              <xs:element name="Genre" minOccurs="0" maxOccurs="unbounded">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:enumeration value="Fiction" />
+                    <xs:enumeration value="Non-Fiction" />
+                    <xs:enumeration value="Mystery" />
+                    <xs:enumeration value="Children" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PublicationYear" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+            <xs:attribute name="ISBN" use="required" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

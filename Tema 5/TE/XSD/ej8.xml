@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="ej8.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<addressBook>
+    <contact>
+      <name>Alice</name>
+      <phone>123-456-7890</phone>
+      <email>alice@email.com</email>
+    </contact>
+    <contact>
+      <name>Bob</name>
+      <phone>987-654-3210</phone>
+      <email>bob@email.com</email>
+    </contact>
+  </addressBook>
